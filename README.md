@@ -1,5 +1,5 @@
 # Notice
-Any issues requesting South Korea/TerraMaps related Map will be closed and locked immediately without any warning. For more info [see here](https://github.com/MysticMoonlight/EnhancedMod/issues/6).
+Any issues requesting TerraMaps related mods will be closed and locked immediately without any warning.
 
 # Starlight
 Starlight is the collection of Map Combo for the game Euro Truck Simulator 2 and American Truck Simulator.
