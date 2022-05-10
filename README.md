@@ -3,6 +3,30 @@ Starlight is the collection of Map Combo for the game Euro Truck Simulator 2 and
 
 All releases are available on our [releases](https://github.com/MysticMoonlight/StarlightMap/releases) page as ods format.
 
+## Dependencies
+Please note that you need ALL Map Expansion DLCs from ETS2 and/or ATS.
+
+### Euro Truck Simulator 2
+* [Euro Truck Simulator 2: Going East!](https://store.steampowered.com/app/227310/)
+* [Euro Truck Simulator 2: Scandinavia](https://store.steampowered.com/app/304212/)
+* [Euro Truck Simulator 2: Viva la France!](https://store.steampowered.com/app/531130/)
+* [Euro Truck Simulator 2: Italia](https://store.steampowered.com/app/558244/)
+* [Euro Truck Simulator 2: Beyond the Baltic Sea](https://store.steampowered.com/app/925580/)
+* [Euro Truck Simulator 2: Road to the Black Sea](https://store.steampowered.com/app/1056760/)
+* [Euro Truck Simulator 2: Iberia](https://store.steampowered.com/app/1209460/)
+* [Euro Truck Simulator 2: Special Transport](https://store.steampowered.com/app/558245) (Optional)
+
+### American Truck Simulator
+* [American Truck Simulator: Arizona](https://store.steampowered.com/app/463740/)
+* [American Truck Simulator: New Mexico](https://store.steampowered.com/app/684630/)
+* [American Truck Simulator: Oregon](https://store.steampowered.com/app/800370/)
+* [American Truck Simulator: Washington](https://store.steampowered.com/app/1015160/)
+* [American Truck Simulator: Utah](https://store.steampowered.com/app/1104880/)
+* [American Truck Simulator: Idaho](https://store.steampowered.com/app/1209470/)
+* [American Truck Simulator: Colorado](https://store.steampowered.com/app/1209471/)
+* [American Truck Simulator: Wyoming](https://store.steampowered.com/app/1415692/)
+* [American Truck Simulator: Special Transport](https://store.steampowered.com/app/962750) (Optional)
+
 ## Recommended Background Map
 ### ETS2
 * [ProMods Complete Afroeurasia Background Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2485894487)
