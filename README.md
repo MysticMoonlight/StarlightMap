@@ -17,22 +17,22 @@ OR
 * [ProMods Pacific & North American Background Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2618624602)
 
 ## List of Combos
-### Explorer’s Combo Flagship (ETS2)
+### Adventurer's Combo Flagship (ETS2)
 Formerly known as Eurasia and Pro Edition, this edition uses ProMods as a base and features many areas to explore.
 
 This edition features the following map mods: ProMods, ProMods Middle-East Addon, Finnmarks, Iberia Rebuilds, Itarevamp, N.Macedonia Rework, ROEXTENDED, AZGE, Project Caucasus, RusMap, JRR, Southern Region, The Great Steppe, Paris Rebuild and many more.
 
-### Explorer’s Combo Classic (ETS2)
+### Adventurer's Combo Classic (ETS2)
 Formerly known as Eurasia Classic and Vanilla Edition, this edition uses vanilla SCS map as a base and it aims to keep original SCS map experience.
 
 This edition features the following map mods: JRR, RusMap, ROEXTENDED, AZGE, Project Caucasus, Southern Region, SibirMap, The Great Steppe and more.
 
-### Explorer’s Combo Flagship (ATS)
+### Adventurer's Combo Flagship (ATS)
 This edition uses Reforma Map as a base and features many areas to explore.
 
 This edition features the following map mods: Major Urban Overhaul, Reforma Map, Coast to Coast, ProMods Canada, Discover Ontario, Montana Expansion, and much more.
 
-### Explorer’s Combo Classic (ATS)
+### Adventurer's Combo Classic (ATS)
 This edition uses vanilla SCS map as a base and it aims to keep original SCS map experience.
 
 This edition features the following map mods: Major Urban Overhaul, Reforma Map, Coast to Coast, ProMods Canada, Discover Ontario, Montana Expansion, and much more.
