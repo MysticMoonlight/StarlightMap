@@ -3,10 +3,9 @@ Starlight is the collection of Map Combo for the game Euro Truck Simulator 2 and
 
 All releases are available on our [releases](https://github.com/MysticMoonlight/StarlightMap/releases) page as ods format.
 
-## Dependencies
-Please note that you need ALL Map Expansion DLCs from ETS2 and/or ATS.
-
-### Euro Truck Simulator 2
+## Requirements
+### Adventurer's Combo / Adventurer's Combo: Extended
+* [Euro Truck Simulator 2](https://store.steampowered.com/app/227300/)
 * [Euro Truck Simulator 2: Going East!](https://store.steampowered.com/app/227310/)
 * [Euro Truck Simulator 2: Scandinavia](https://store.steampowered.com/app/304212/)
 * [Euro Truck Simulator 2: Viva la France!](https://store.steampowered.com/app/531130/)
@@ -16,7 +15,8 @@ Please note that you need ALL Map Expansion DLCs from ETS2 and/or ATS.
 * [Euro Truck Simulator 2: Iberia](https://store.steampowered.com/app/1209460/)
 * [Euro Truck Simulator 2: Special Transport](https://store.steampowered.com/app/558245) (Optional)
 
-### American Truck Simulator
+### Adventurer's Combo: America
+* [American Truck Simulator](https://store.steampowered.com/app/270880/)
 * [American Truck Simulator: Arizona](https://store.steampowered.com/app/463740/)
 * [American Truck Simulator: New Mexico](https://store.steampowered.com/app/684630/)
 * [American Truck Simulator: Oregon](https://store.steampowered.com/app/800370/)
@@ -28,39 +28,45 @@ Please note that you need ALL Map Expansion DLCs from ETS2 and/or ATS.
 * [American Truck Simulator: Special Transport](https://store.steampowered.com/app/962750) (Optional)
 
 ## Recommended Background Map
-### ETS2
+### Adventurer's Combo / Adventurer's Combo: Extended
+Use this [fix](https://truckymods.io/euro-truck-simulator-2/ui/scs-scale-hack-disable) if the UK/Ireland/Faroes/Iceland appear out of position.
+
+**Option 1:**
 * [ProMods Complete Afroeurasia Background Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2485894487)
-* [Zoom Crash Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2701258039)
-* [SCS Scale Hack Disable](https://truckymods.io/euro-truck-simulator-2/ui/scs-scale-hack-disable)
-  
-OR
+* [Zoom Crash Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2701258039) 
 
-* [Worlds Combined Background Map](https://truckymods.io/euro-truck-simulator-2/ui/worlds-combined-background-map)
-* [SCS Scale Hack Disable](https://truckymods.io/euro-truck-simulator-2/ui/scs-scale-hack-disable)
+**Option 2:**
+* [Worlds Combined Background Map](https://truckymods.io/euro-truck-simulator-2/ui/worlds-combined-background-map) (DirectX 11 ONLY)
 
-### ATS
+### Adventurer's Combo: America
 * [ProMods Pacific & North American Background Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2618624602)
 
 ## List of Combos
-### Adventurer's Combo Flagship (ETS2)
+### Adventurer's Combo
+Formerly known as Eurasia Classic and Vanilla Edition, this edition uses vanilla SCS map as a base and it aims to keep original SCS map experience.
+
+This edition features the following map mods: JRR, RusMap, ROEXTENDED, AZGE, Project Caucasus, SibirMap, The Great Steppe, Paris Rebuild, Poland-Detail-Adding Map and more.
+
+### Adventurer's Combo: Extended
 Formerly known as Eurasia and Pro Edition, this edition uses ProMods as a base and features many areas to explore.
 
 This edition features the following map mods: ProMods, ProMods Middle-East Addon, Finnmarks, Iberia Rebuilds, Itarevamp, N.Macedonia Rework, ROEXTENDED, AZGE, Project Caucasus, RusMap, JRR, Southern Region, The Great Steppe, Paris Rebuild and many more.
 
-### Adventurer's Combo Classic (ETS2)
-Formerly known as Eurasia Classic and Vanilla Edition, this edition uses vanilla SCS map as a base and it aims to keep original SCS map experience.
-
-This edition features the following map mods: JRR, RusMap, ROEXTENDED, AZGE, Project Caucasus, SibirMap, The Great Steppe and more.
-
-### Adventurer's Combo Flagship (ATS)
+### Adventurer's Combo: America
 This edition uses Reforma Map as a base and features many areas to explore.
 
 This edition features the following map mods: Major Urban Overhaul, Reforma Map, Coast to Coast, ProMods Canada, Discover Ontario, Montana Expansion, Island Map, and much more.
 
+## Discontinued Editions
+These combo will no longer be updated in the future.
 ### Adventurer's Combo Classic (ATS)
 This edition uses vanilla SCS map as a base and it aims to keep original SCS map experience.
 
 This edition features the following map mods: Major Urban Overhaul, Coast to Coast, Montana Expansion, Island Map, and more.
+
+Notice - This edition is discontinued due to several reasons. Reasons includes:
+* Lack of contents and improvement mods present in ATS
+* This was designed as alternative to Reforma Map due to rumors about rescaling, which would cause incompatibility in the near future. However that information is from TerraMaps discord and cannot confirm about it since there is no proofs about it so we decided to consider it as false rumor
 
 ## Special Thanks to
 * GMC Logistics, Vinnie Terranova for map combo examples and references
