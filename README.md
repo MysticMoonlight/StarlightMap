@@ -34,11 +34,12 @@ Please note that you need ALL Map Expansion DLCs from ETS2 and/or ATS.
 ### ETS2
 * [ProMods Complete Afroeurasia Background Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2485894487)
 * [Zoom Crash Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2701258039)
-
+* [SCS Scale Hack Disable](https://truckymods.io/euro-truck-simulator-2/ui/scs-scale-hack-disable)
+  
 OR
 
 * [Worlds Combined Background Map](https://truckymods.io/euro-truck-simulator-2/ui/worlds-combined-background-map)
-* [SCS Scale Hack Disable](https://truckymods.io/euro-truck-simulator-2/ui/scs-scale-hack-disable) (If you use ProMods)
+* [SCS Scale Hack Disable](https://truckymods.io/euro-truck-simulator-2/ui/scs-scale-hack-disable)
 
 ### ATS
 * [ProMods Pacific & North American Background Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2618624602)
@@ -52,17 +53,17 @@ This edition features the following map mods: ProMods, ProMods Middle-East Addon
 ### Adventurer's Combo Classic (ETS2)
 Formerly known as Eurasia Classic and Vanilla Edition, this edition uses vanilla SCS map as a base and it aims to keep original SCS map experience.
 
-This edition features the following map mods: JRR, RusMap, ROEXTENDED, AZGE, Project Caucasus, Southern Region, SibirMap, The Great Steppe and more.
+This edition features the following map mods: JRR, RusMap, ROEXTENDED, AZGE, Project Caucasus, SibirMap, The Great Steppe and more.
 
 ### Adventurer's Combo Flagship (ATS)
 This edition uses Reforma Map as a base and features many areas to explore.
 
-This edition features the following map mods: Major Urban Overhaul, Reforma Map, Coast to Coast, ProMods Canada, Discover Ontario, Montana Expansion, and much more.
+This edition features the following map mods: Major Urban Overhaul, Reforma Map, Coast to Coast, ProMods Canada, Discover Ontario, Montana Expansion, Island Map, and much more.
 
 ### Adventurer's Combo Classic (ATS)
 This edition uses vanilla SCS map as a base and it aims to keep original SCS map experience.
 
-This edition features the following map mods: Major Urban Overhaul, Reforma Map, Coast to Coast, ProMods Canada, Discover Ontario, Montana Expansion, and much more.
+This edition features the following map mods: Major Urban Overhaul, Coast to Coast, Montana Expansion, Island Map, and more.
 
 ## Special Thanks to
 * GMC Logistics, Vinnie Terranova for map combo examples and references
