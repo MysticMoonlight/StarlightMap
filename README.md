@@ -1,6 +1,3 @@
-# Notice
-1.44 has been released for both ETS2 and ATS. We will update our map combo and announce it on our [Twitter](https://twitter.com/Mysty_Moonlight) when it's ready. We wish to ask you to be patient while the developers update their map to support 1.44. Thank you!
-
 # Starlight
 Starlight is the collection of Map Combo for the game Euro Truck Simulator 2 and American Truck Simulator.
 
