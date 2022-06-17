@@ -40,6 +40,7 @@ Use this [fix](https://truckymods.io/euro-truck-simulator-2/ui/scs-scale-hack-di
 
 ### Adventurer's Combo: America
 * [ProMods Pacific & North American Background Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2618624602)
+* [Zoom Crash Fix](https://sharemods.com/8p9xpdozm6f7/CRASHFIX_HUGE_COMBOS.scs.html)
 
 ## List of Combos
 ### Adventurer's Combo
