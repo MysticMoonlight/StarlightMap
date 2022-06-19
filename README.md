@@ -32,7 +32,7 @@ All releases are available on our [releases](https://github.com/MysticMoonlight/
 Use this [fix](https://truckymods.io/euro-truck-simulator-2/ui/scs-scale-hack-disable) if the UK/Ireland/Faroes/Iceland appear out of position.
 
 **Option 1:**
-* [ProMods Complete Afroeurasia Background Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2485894487)
+* [ProMods Complete Afroeurasia Background Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2519515664)
 * [Zoom Crash Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2701258039) 
 
 **Option 2:**
@@ -41,6 +41,10 @@ Use this [fix](https://truckymods.io/euro-truck-simulator-2/ui/scs-scale-hack-di
 ### Adventurer's Combo: America
 * [ProMods Pacific & North American Background Map](https://steamcommunity.com/sharedfiles/filedetails/?id=2618624602)
 * [Zoom Crash Fix](https://sharemods.com/8p9xpdozm6f7/CRASHFIX_HUGE_COMBOS.scs.html)
+
+### Adventurer's Combo: Special Edition
+* [ProMods High Quality Map Background](https://steamcommunity.com/sharedfiles/filedetails/?id=2485894487)
+* [Zoom Crash Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2701258039) 
 
 ## List of Combos
 ### Adventurer's Combo
@@ -52,6 +56,12 @@ This edition features the following map mods: JRR, RusMap, ROEXTENDED, AZGE, Pro
 Formerly known as Eurasia and Pro Edition, this edition uses ProMods as a base and features many areas to explore.
 
 This edition features the following map mods: ProMods, ProMods Middle-East Addon, Finnmarks, Iberia Rebuilds, Itarevamp, N.Macedonia Rework, ROEXTENDED, AZGE, Project Caucasus, RusMap, JRR, Southern Region, The Great Steppe, Paris Rebuild and many more.
+
+#### Adventurer's Combo: Special Edition (1.44 ONLY)
+This map combo is limited edition which will be only available for 1.44 release! This special edition is designed for truckers who are tired of waiting for ProMods Middle-East.
+Please do note that this combo is Special Edition which means it will be only available for 1.44 release! This map combo won't be frequently updated.
+
+This edition features the following map mods: ProMods Europe, Finnmarks, Iberia Rebuilding, Itarevamp, N.Macedonia Rework, RusMap, Corfu and Greek Islands, Paris Rebuild.
 
 ### Adventurer's Combo: America
 This edition uses Reforma Map as a base and features many areas to explore.
