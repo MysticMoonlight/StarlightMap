@@ -32,12 +32,8 @@ All releases are available on our [releases](https://github.com/MysticMoonlight/
 #### Adventurer's Combo / Adventurer's Combo: Extended
 Use this [fix](https://truckymods.io/euro-truck-simulator-2/ui/scs-scale-hack-disable) if the UK/Ireland/Faroes/Iceland appear out of position.
 
-**Option 1:**
 * [ProMods Complete Afroeurasia Background Map](https://truckymods.io/euro-truck-simulator-2/ui/promods-complete-afroeurasia-background-map)
 * [Zoom Crash Fix](https://truckymods.io/euro-truck-simulator-2/ui/zoom-crash-fix) 
-
-**Option 2:**
-* [Worlds Combined Background Map](https://truckymods.io/euro-truck-simulator-2/ui/worlds-combined-background-map) (DirectX 11 ONLY)
 
 #### Adventurer's Combo: America
 Zoom Crash fix is normally not needed, but if you encounter crashes while zooming, [try this fix](https://sharemods.com/8p9xpdozm6f7/CRASHFIX_HUGE_COMBOS.scs.html).
@@ -47,20 +43,12 @@ Zoom Crash fix is normally not needed, but if you encounter crashes while zoomin
 #### Mini Combo
 Use this [fix](https://truckymods.io/euro-truck-simulator-2/ui/scs-scale-hack-disable) if the UK/Ireland/Faroes/Iceland appear out of position.
 
-**Option 1**
 * [ProMods High Quality Background Map](https://truckymods.io/euro-truck-simulator-2/ui/promods-high-quality-background-map)
 * [Zoom Crash Fix](https://truckymods.io/euro-truck-simulator-2/ui/zoom-crash-fix) 
-
-**Option 2**
-* [Worlds Combined Background Map](https://truckymods.io/euro-truck-simulator-2/ui/worlds-combined-background-map) (DirectX 11 ONLY)
 
 #### Mini Combo America
 Zoom Crash fix is normally not needed, but if you encounter crashes while zooming, [try this fix](https://sharemods.com/8p9xpdozm6f7/CRASHFIX_HUGE_COMBOS.scs.html).
 * [ProMods Pacific & North American Background Map](https://truckymods.io/american-truck-simulator/ui/promods-pacific-north-american-map-background)
-
-### Adventurer's Combo: Special Edition
-* [ProMods High Quality Map Background](https://steamcommunity.com/sharedfiles/filedetails/?id=2485894487)
-* [Zoom Crash Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2701258039) 
 
 ## List of Combos
 ### Adventurer's Combo Series
