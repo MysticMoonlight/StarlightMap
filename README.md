@@ -25,6 +25,7 @@ All releases are available on our [releases](https://github.com/MysticMoonlight/
 * [American Truck Simulator: Idaho](https://store.steampowered.com/app/1209470/)
 * [American Truck Simulator: Colorado](https://store.steampowered.com/app/1209471/)
 * [American Truck Simulator: Wyoming](https://store.steampowered.com/app/1415692/)
+* [American Truck Simulator: Montana](https://store.steampowered.com/app/1811080/)
 * [American Truck Simulator: Special Transport](https://store.steampowered.com/app/962750) (Optional)
 
 ## Recommended Background Map
@@ -48,7 +49,7 @@ Use this [fix](https://truckymods.io/euro-truck-simulator-2/ui/scs-scale-hack-di
 
 #### Mini Combo America
 Zoom Crash fix is normally not needed, but if you encounter crashes while zooming, [try this fix](https://sharemods.com/8p9xpdozm6f7/CRASHFIX_HUGE_COMBOS.scs.html).
-* [ProMods Pacific & North American Background Map](https://truckymods.io/american-truck-simulator/ui/promods-pacific-north-american-map-background)
+* [ProMods Complete North American Background Map](https://truckymods.io/american-truck-simulator/ui/promods-complete-north-american-background-map)
 
 ## List of Combos
 ### Adventurer's Combo Series
