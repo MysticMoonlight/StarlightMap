@@ -1,3 +1,6 @@
+# Discontinuation notice
+This project is discontinued indefinitely until further notice. More information can be found [here](https://github.com/MysticMoonlight/EnhancedMod/discussions/30).
+
 # Starlight
 Starlight is the collection of Map Combo for the game Euro Truck Simulator 2 and American Truck Simulator.
 
